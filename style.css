@@ -98,7 +98,7 @@ nav {
     background-size: cover;
     background-position: 100%;
     background-repeat: no-repeat;
-    background-image: url("/img/d12.jpeg");
+    background-image: url("https://mergen-ulz.github.io/webmergen/img/d12.jpeg");
 }
 
 .news-article {
@@ -247,7 +247,7 @@ tr {
 }
 
 #team2-img {
-    background-image: url("/img/ex1.png");
+    background-image: url("https://mergen-ulz.github.io/webmergen/img/ex1.png");
 }
 
 .bg-img {
