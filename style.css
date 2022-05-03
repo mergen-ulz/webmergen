@@ -72,11 +72,11 @@ nav {
 }
 
 .hero-content h1 {
-    font-size: 25vh;
+    font-size: 12vw;
 }
 
 .hero-content h3 {
-    font-size: 8vh;
+    font-size: 4vw;
 }
 
 #news-header {
@@ -118,7 +118,7 @@ nav {
 .news-title {
     padding-top: 1vh;
     margin-left: 1vh;
-    font-size: 2.5vh;
+    font-size: 1.5vw;
     color: white;
 }
 
@@ -127,7 +127,7 @@ nav {
     position: relative;
     padding: 1vh 1vh 2vh 1vh;
     color: lightgray;
-    font-size: 2vh;
+    font-size: 1vw;
     font-weight: 100;
     font-family: "Noto Sans";
 }
@@ -158,7 +158,7 @@ nav {
     justify-content: space-around;
     align-items: center;
     font-family: "Roboto", "sans-serif";
-    font-size: 3vh;
+    font-size: 1.5vw;
     width: 100%;
 }
 
@@ -202,13 +202,13 @@ tr {
 
 .matches-info th {
     font-weight: 700;
-    font-size: 2.5vh;
+    font-size: 1.5vw;
 }
 
 #watch-link {
     text-decoration: none;
     text-align: center;
-    font-size: 3vh;
+    font-size: 1.5vw;
     font-weight: bolder;
 }
 
@@ -239,7 +239,7 @@ tr {
 #vs {
     text-align: center;
     font-weight: 500;
-    font-size: 3vh
+    font-size: 1.5vw;
 }
 
 #team1-img {
@@ -321,7 +321,7 @@ footer div {
 }
 
 .footer-col {
-    font-size: 2.5vh;
+    font-size: 1.3vw;
     width: 20vw;
 }
 
